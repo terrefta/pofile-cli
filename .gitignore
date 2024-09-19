@@ -1,0 +1,8 @@
+__pycache__/
+.DS_Store
+.env
+.idea/
+dist/
+db.sqlite3
+pofile-cli/
+*.egg-info/

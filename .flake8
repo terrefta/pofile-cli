@@ -1,0 +1,4 @@
+[flake8]
+ignore = C901,E122,E126,E226,E501,E741,F403,F405,W291,W293,W503
+exclude = .git,.cache,.idea,.__pycache__
+max-complexity = 12
